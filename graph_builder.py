@@ -1,6 +1,6 @@
 import csv
 import random
-from metro_graph import Vertex, Graph, Edge
+from metro_graph import Graph
 
 
 def load_metro_graph(csv_path):

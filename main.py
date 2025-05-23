@@ -1,7 +1,4 @@
-import csv
-import random
 import sys
-from metro_graph import Vertex, Edge, Graph
 from graph_builder import load_metro_graph
 from station_selector import get_station_code_by_name
 
